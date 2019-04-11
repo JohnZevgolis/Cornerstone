@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'NeutrafaceTwoTextGreekBook';
+    src: url('fonts/NeutrafaceTwoTextGreekBook.eot');
+    src: url('fonts/NeutrafaceTwoTextGreekBook.eot') format('embedded-opentype'),
+         url('fonts/NeutrafaceTwoTextGreekBook.woff2') format('woff2'),
+         url('fonts/NeutrafaceTwoTextGreekBook.woff') format('woff'),
+         url('fonts/NeutrafaceTwoTextGreekBook.ttf') format('truetype'),
+         url('fonts/NeutrafaceTwoTextGreekBook.svg#NeutrafaceTwoTextGreekBook') format('svg');
+}
